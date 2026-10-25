@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: zh-medical-insurance-bilingual
+expected_outcome: |
+  Plain Chinese and English versions plus accessible HTML that keep the 400-yuan contribution, the Oct 15 - Dec 31 2026 payment window, the 70%/50%/full subsidies, the 90-day newborn rule and the 3-month waiting period; make clear the 670-yuan government subsidy is not paid by residents; flag the hedged student rule and hard-to-translate terms for review; declare correct page languages.
+context:
+  scaffold_script: place-files.sh

@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+# local outputs and test workspaces
+clearforall-output/
+*-workspace/
+evals/results/
+.ruff_cache/
