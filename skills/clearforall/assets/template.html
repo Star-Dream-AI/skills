@@ -1,0 +1,149 @@
+<!doctype html>
+<!--
+  ClearForAll accessible page template.
+  Replace every {{...}} placeholder, delete sections that do not apply, keep the structure.
+  - lang: "en" or "zh-Hans" (Simplified) / "zh-Hant" (Traditional). Wrap any passage in the
+    other language in an element with its own lang attribute.
+  - Every critical fact sits in an element with data-fact="F#" whose text contains the exact value.
+  - Uncertain facts also get data-review="R#" and the .flag style; keep #cfa-draft-notice while
+    any review item is open. A person removes both after resolving review.md.
+  - No external fonts, scripts, images or analytics: the page must work offline and must not
+    tell any third party who opened it.
+-->
+<html lang="{{LANG}}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{SHORT TITLE}}</title>
+<style>
+  :root {
+    --bg: #ffffff; --text: #1a1a1a; --muted: #4a4a4a; --accent: #0b5cad;
+    --box: #eef4fb; --box-border: #0b5cad; --warn-bg: #fff4d6; --warn-border: #8a5a00;
+    --flag-bg: #fde7e9; --flag-border: #a4262c; --rule: #c8c8c8;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #121212; --text: #f2f2f2; --muted: #c8c8c8; --accent: #8cc4ff;
+      --box: #17283a; --box-border: #8cc4ff; --warn-bg: #3a2e10; --warn-border: #f0c060;
+      --flag-bg: #3d1a1d; --flag-border: #ff9aa2; --rule: #555555;
+    }
+  }
+  html { font-size: 112.5%; }               /* 18px base; scales with browser zoom */
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font-family: system-ui, -apple-system, "Segoe UI", "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
+    line-height: 1.6;
+  }
+  .wrap { max-width: 40rem; margin: 0 auto; padding: 1rem; }
+  h1 { font-size: 1.75rem; line-height: 1.25; margin: 0.5rem 0 1rem; }
+  h2 { font-size: 1.35rem; margin: 2rem 0 0.5rem; border-top: 2px solid var(--rule); padding-top: 1rem; }
+  h3 { font-size: 1.1rem; margin: 1.25rem 0 0.25rem; }
+  p, li { margin: 0.4rem 0; }
+  ol, ul { padding-left: 1.5rem; }
+  a { color: var(--accent); text-decoration-thickness: 2px; }
+  a:focus-visible, button:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+  .skip { position: absolute; left: -9999px; }
+  .skip:focus { left: 1rem; top: 1rem; background: var(--bg); padding: 0.5rem; z-index: 10; }
+  .key { background: var(--box); border-left: 6px solid var(--box-border); padding: 0.75rem 1rem; margin: 1rem 0; }
+  .key p { margin: 0.25rem 0; }
+  .big { font-size: 1.2rem; font-weight: 700; }
+  .draft { background: var(--warn-bg); border: 2px solid var(--warn-border); padding: 0.75rem 1rem; margin: 1rem 0; }
+  .flag { background: var(--flag-bg); border-bottom: 2px dashed var(--flag-border); }
+  table { border-collapse: collapse; width: 100%; margin: 0.5rem 0 1rem; }
+  caption { text-align: left; font-weight: 700; padding: 0.25rem 0; }
+  th, td { border: 1px solid var(--rule); padding: 0.5rem; text-align: left; vertical-align: top; }
+  th { background: var(--box); }
+  .sources { font-size: 1rem; color: var(--muted); }
+  .sources blockquote { margin: 0.25rem 0 0.75rem; padding-left: 0.75rem; border-left: 3px solid var(--rule); }
+  footer { font-size: 1rem; color: var(--muted); margin-top: 2rem; }
+  @media print {
+    .skip { display: none; }
+    a::after { content: " (" attr(href) ")"; font-size: 0.9em; }
+    h2 { break-after: avoid; }
+  }
+</style>
+</head>
+<body>
+<a class="skip" href="#main">{{Skip to main content | 跳到正文}}</a>
+<div class="wrap">
+<header>
+  <p>{{Who made this page, e.g. "Easy-read guide made by [organisation] volunteers" | "由[机构]志愿者整理的简明版"}}</p>
+</header>
+
+<main id="main">
+  <h1>{{Plain title saying what this is about}}</h1>
+
+  <!-- Remove only after a person has resolved every item in review.md. -->
+  <div id="cfa-draft-notice" class="draft" role="note">
+    <p><strong>{{Draft – being checked | 草稿，正在核对}}</strong></p>
+    <p>{{Some details are still being checked. Parts marked like this need checking. Do not share this page yet. | 部分内容还在核对中，标出的地方需要确认。请先不要转发。}}</p>
+  </div>
+
+  <section class="key" aria-labelledby="key-h">
+    <h2 id="key-h">{{The most important things | 最重要的几件事}}</h2>
+    <p class="big"><span data-fact="F1">{{e.g. Apply by Tuesday 31 March 2027}}</span></p>
+    <p>{{One sentence: what this is and who it is for.}}</p>
+  </section>
+
+  <section aria-labelledby="who-h">
+    <h2 id="who-h">{{Who can get this | 谁可以申请}}</h2>
+    <!-- Keep every "and" / "or" / "only if" / "except". Use a list when ALL conditions are needed and say so. -->
+    <p>{{You can get this if <strong>all</strong> of these are true: | 以下条件<strong>都</strong>符合，才可以申请：}}</p>
+    <ul>
+      <li data-fact="F2">{{condition}}</li>
+    </ul>
+  </section>
+
+  <section aria-labelledby="money-h">
+    <h2 id="money-h">{{How much | 金额}}</h2>
+    <table>
+      <caption>{{Table caption}}</caption>
+      <thead><tr><th scope="col">{{Column}}</th><th scope="col">{{Column}}</th></tr></thead>
+      <tbody>
+        <tr><th scope="row">{{Row}}</th><td data-fact="F3">{{value}}</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section aria-labelledby="steps-h">
+    <h2 id="steps-h">{{What to do | 怎么办}}</h2>
+    <ol>
+      <li>{{One action per step.}}</li>
+    </ol>
+  </section>
+
+  <section aria-labelledby="bring-h">
+    <h2 id="bring-h">{{What to bring | 需要准备什么}}</h2>
+    <ul>
+      <li data-fact="F4">{{document}}</li>
+    </ul>
+  </section>
+
+  <section aria-labelledby="dates-h">
+    <h2 id="dates-h">{{Important dates | 重要日期}}</h2>
+    <ul>
+      <li><span data-fact="F5">{{date with weekday and year}}</span> – {{what happens}}</li>
+    </ul>
+  </section>
+
+  <section aria-labelledby="help-h">
+    <h2 id="help-h">{{Questions? Get help | 有问题找谁}}</h2>
+    <p>{{Call | 电话}}: <a href="tel:{{digits}}" data-fact="F6">{{number}}</a></p>
+  </section>
+
+  <section class="sources" id="sources" aria-labelledby="src-h">
+    <h2 id="src-h">{{Where this information comes from | 信息来源}}</h2>
+    <p>{{Source document: title, issuing office, date or version; file name or link.}}</p>
+    <ol>
+      <li id="src-F1"><strong>F1</strong> – {{location, e.g. "Section 4, line 37"}}
+        <blockquote lang="{{SOURCE LANG}}">{{verbatim source quote}}</blockquote></li>
+    </ol>
+  </section>
+</main>
+
+<footer>
+  <p>{{This is an easy-read summary, not the official notice. If anything here differs from the official notice, the official notice is correct. | 这是简明版，不是正式文件。如与正式通知不一致，以正式通知为准。}}</p>
+</footer>
+</div>
+</body>
+</html>
