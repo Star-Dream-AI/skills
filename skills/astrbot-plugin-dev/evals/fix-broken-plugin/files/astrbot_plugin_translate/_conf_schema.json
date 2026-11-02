@@ -1,0 +1,5 @@
+{
+  "target_lang": {"type": "string", "description": "默认目标语言", "default": "English"},
+  "push_hour": {"type": "integer", "description": "每日词汇推送的小时", "default": 8},
+  "push_sessions": {"type": "list", "description": "推送到的会话 UMO", "default": []}
+}

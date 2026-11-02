@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: desktop-send-file-and-secret-chat
+expected_outcome: |
+  Plans a screenshot-verify loop, finds the group via search and checks the header (warning about duplicate names), attaches via the paperclip and native file dialog by typing the full path, chooses send-as-file, adds the caption, confirms before sending, verifies after; explains secret chats are not available in Telegram Desktop on Windows.

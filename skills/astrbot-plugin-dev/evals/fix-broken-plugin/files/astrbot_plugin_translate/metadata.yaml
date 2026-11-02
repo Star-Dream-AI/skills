@@ -1,0 +1,6 @@
+name: astrbot_plugin_translate
+display_name: 翻译助手
+desc: 用 LLM 翻译文本，并提供翻译工具和每日词汇推送
+version: 1.0
+author: xmlans
+repo: https://github.com/xmlans/astrbot_plugin_translate

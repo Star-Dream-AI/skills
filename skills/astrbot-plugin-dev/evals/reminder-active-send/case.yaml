@@ -1,0 +1,7 @@
+schema_version: "1.1"
+name: reminder-active-send
+expected_outcome: |
+  A plugin whose /提醒 command takes minutes plus free text containing spaces, stores the
+  session UMO and sender, persists pending reminders outside the plugin folder, restores
+  them on load, delivers them with context.send_message and an At component, starts its
+  scheduler in initialize() and cancels it in terminate(), and lists a user's reminders.

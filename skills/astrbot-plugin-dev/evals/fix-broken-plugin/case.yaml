@@ -1,0 +1,11 @@
+schema_version: "1.1"
+name: fix-broken-plugin
+context:
+  scaffold_script: place-files.sh
+expected_outcome: |
+  All five problems are diagnosed with the real AstrBot cause and fixed in the plugin files:
+  version quoted as a string and "integer" replaced in both _conf_schema.json (int) and the
+  llm_tool docstring (number); /翻译 takes the whole sentence via GreedyStr without a default;
+  the tool returns a string instead of yielding; the push task is started in initialize() and
+  cancelled in terminate() with __del__ removed; the on_llm_request hook no longer yields and
+  puts the changing time into extra_user_content_parts rather than system_prompt.

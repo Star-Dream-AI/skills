@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: bot-403-and-group-privacy
+expected_outcome: |
+  Explains bots can't message users first (user must /start the bot), privacy mode limits group visibility (disable via BotFather /setprivacy or make admin, re-add bot), 409 means a webhook is set or another poller runs (deleteWebhook / single poller), and advises keeping the token secret.

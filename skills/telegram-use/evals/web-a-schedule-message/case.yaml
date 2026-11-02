@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: web-a-schedule-message
+expected_outcome: |
+  Recognises Web A, opens the chat by username in a way that works on A (tgaddr hash or search, not #@username), verifies the chat header before typing, types into the contenteditable composer with keyboard events, schedules via right-click on the send button, and verifies the scheduled message, noting the user should confirm before it goes.

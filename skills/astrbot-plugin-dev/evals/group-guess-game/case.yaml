@@ -1,0 +1,7 @@
+schema_version: "1.1"
+name: group-guess-game
+expected_outcome: |
+  A complete loadable plugin (main.py defining the Star subclass, metadata.yaml with string
+  fields, _conf_schema.json with int types) where /猜数字 starts a per-player game whose
+  follow-up guesses need no prefix, isolated per sender in the same group, ending on win,
+  "退出" or the configurable timeout.

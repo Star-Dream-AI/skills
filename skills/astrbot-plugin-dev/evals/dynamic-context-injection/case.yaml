@@ -1,0 +1,7 @@
+schema_version: "1.1"
+name: dynamic-context-injection
+expected_outcome: |
+  A plugin that injects time and per-user affinity into each LLM request without changing
+  the system prompt per turn (extra_user_content_parts, ideally marked temporary), updates
+  affinity from a listener that does not block the LLM reply, persists it outside the plugin
+  folder, and offers /好感度.
