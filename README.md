@@ -16,8 +16,6 @@ This repository is a home for Skills created and maintained by **Star Dream AI**
 
 Skills in this collection may cover different tasks and disciplines. Each is intended to be self-contained, with clear instructions and any resources needed to perform its specific workflow.
 
-**Status:** This repository is being set up. Skills will be added over time. No particular skill is promised or available until it appears in the `skills/` directory.
-
 ## Browse Skills
 
 Once skills have been published, you will find them in the `skills/` directory. Each skill will have its own `SKILL.md` and, where needed, scripts, examples, or reference materials.
