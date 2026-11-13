@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: good-news-match-energy
+expected_outcome: |
+  An excited reply that matches the user's energy, refers to the backstory (last week, nervous), asks for details, and does not pivot to reminders or cautions.
