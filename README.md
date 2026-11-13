@@ -111,4 +111,4 @@ This repository is licensed under the [Apache License 2.0](LICENSE), unless othe
 
 ---
 
-*Made to share. Built to improve.*
+<img src="https://files.astrbot.app/watashiwa-koseino-desukara.gif" width="100"/>
