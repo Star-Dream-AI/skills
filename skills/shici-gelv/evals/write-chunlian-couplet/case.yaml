@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: write-chunlian-couplet
+expected_outcome: |
+  A seven-character Spring Festival couplet for the Year of the Horse with 上联 ending 仄 and 下联 ending 平, no tone errors, plus a 横批.

@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: check-poem-out-of-rhyme
+expected_outcome: |
+  Finds the single real fault: 檐 (下平十四盐) is out of rhyme with 烟/前 (下平一先); reports no false tone errors; suggests a 先-rhyme replacement.

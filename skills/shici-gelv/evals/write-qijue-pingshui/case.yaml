@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: write-qijue-pingshui
+expected_outcome: |
+  A 七言绝句 on autumn-night homesickness that passes a 平水韵 check with no errors, with the rhyme group correctly named.

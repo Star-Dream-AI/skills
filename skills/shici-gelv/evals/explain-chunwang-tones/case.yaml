@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: explain-chunwang-tones
+expected_outcome: |
+  Says 春望 is a regulated 五律; explains 国 is an 入声 (仄) character; says 胜 reads 平声 shēng (禁得起); names 侵韵.
