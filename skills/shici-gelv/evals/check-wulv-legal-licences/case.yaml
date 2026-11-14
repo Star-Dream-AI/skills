@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: check-wulv-legal-licences
+expected_outcome: |
+  Explains the poem is 合律: line 3-4 is 出句拗对句救, line 5 is the 特拗 平平仄平仄, line 8 is 孤平拗救 (仄平平仄平), so the friend's three objections are all mistaken.

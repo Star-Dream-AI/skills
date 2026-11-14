@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: write-qilv-pingshui
+expected_outcome: |
+  A 七言律诗 titled 登山 that passes a 平水韵 check with no errors, with parallel 颔联 and 颈联.
