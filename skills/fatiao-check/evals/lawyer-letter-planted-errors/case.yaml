@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: lawyer-letter-planted-errors
+expected_outcome: |
+  Finds the four faulty citations (39条第七项 does not exist / 严重失职 is 第三项; 第一百零二条 does not exist → 第八十二条; the quote under 第四十六条 is actually 第四十七条; 民事诉讼法第一百一十九条 is the old numbering → 第一百二十二条) and does not flag the correct 第八十七条 and 第五十条第一款.
+context:
+  scaffold_script: place-files.sh

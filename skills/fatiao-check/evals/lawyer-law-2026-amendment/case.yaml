@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: lawyer-law-2026-amendment
+expected_outcome: |
+  Says the Lawyers Law was amended in 2026 (in force 2026-09-01) and the confidentiality duties are now in 第四十一条 (old 第三十八条).
+context:
+  scaffold_script: place-files.sh

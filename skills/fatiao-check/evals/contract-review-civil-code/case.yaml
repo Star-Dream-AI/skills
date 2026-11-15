@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: contract-review-civil-code
+expected_outcome: |
+  Flags 《民法典》第五百八十八条 as the wrong article for the double-return-of-deposit rule (it is 第五百八十七条) and 《合同法》第九十四条 as repealed (now 《民法典》第五百六十三条); confirms 第五百八十六条第二款 quote and 第五百九十条 are correct.
+context:
+  scaffold_script: place-files.sh
