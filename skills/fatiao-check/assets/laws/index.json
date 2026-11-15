@@ -1,0 +1,846 @@
+{
+ "laws": {
+  "中华人民共和国宪法": {
+   "version": "2018年",
+   "effective": "2018年3月11日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 143,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国宪法 (2018年)",
+    "revid": 2267688,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%AE%AA%E6%B3%95%20%282018%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国民法典": {
+   "version": "2020年",
+   "effective": "2021年1月1日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 1260,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国民法典",
+    "revid": 2590895,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%B0%91%E6%B3%95%E5%85%B8",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国刑法": {
+   "version": "2023年",
+   "effective": "2024年3月1日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 505,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国刑法 (2023年)",
+    "revid": 2601917,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%88%91%E6%B3%95%20%282023%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国民事诉讼法": {
+   "version": "2023年",
+   "effective": "2024年1月1日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 306,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国民事诉讼法 (2023年)",
+    "revid": 7907911,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%B0%91%E4%BA%8B%E8%AF%89%E8%AE%BC%E6%B3%95%20%282023%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国刑事诉讼法": {
+   "version": "2018年",
+   "effective": "2018年10月26日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 308,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国刑事诉讼法 (2018年)",
+    "revid": 2262178,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%88%91%E4%BA%8B%E8%AF%89%E8%AE%BC%E6%B3%95%20%282018%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国行政诉讼法": {
+   "version": "2017年",
+   "effective": "2017年7月1日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 103,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国行政诉讼法 (2017年)",
+    "revid": 2131080,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%A1%8C%E6%94%BF%E8%AF%89%E8%AE%BC%E6%B3%95%20%282017%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国行政处罚法": {
+   "version": "2021年",
+   "effective": "2021年7月15日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 86,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国行政处罚法 (2021年)",
+    "revid": 2149463,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A%E6%B3%95%20%282021%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国行政许可法": {
+   "version": "2019年",
+   "effective": "2019年4月23日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 83,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国行政许可法 (2019年)",
+    "revid": 1559552,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%A1%8C%E6%94%BF%E8%AE%B8%E5%8F%AF%E6%B3%95%20%282019%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国行政复议法": {
+   "version": "2023年",
+   "effective": "2024年1月1日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 90,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国行政复议法 (2023年)",
+    "revid": 2394864,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%A1%8C%E6%94%BF%E5%A4%8D%E8%AE%AE%E6%B3%95%20%282023%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国国家赔偿法": {
+   "version": "2012年",
+   "effective": "2013年1月1日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 42,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国国家赔偿法 (2012年)",
+    "revid": 2454578,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9B%BD%E5%AE%B6%E8%B5%94%E5%81%BF%E6%B3%95%20%282012%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国劳动法": {
+   "version": "2018年",
+   "effective": "2018年12月29日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 107,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国劳动法 (2018年)",
+    "revid": 1529180,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%8A%B3%E5%8A%A8%E6%B3%95%20%282018%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国劳动合同法": {
+   "version": "2012年",
+   "effective": "2013年7月1日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 98,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国劳动合同法 (2012年)",
+    "revid": 2084341,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%8A%B3%E5%8A%A8%E5%90%88%E5%90%8C%E6%B3%95%20%282012%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国劳动争议调解仲裁法": {
+   "version": "2007年",
+   "effective": "2008年5月1日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 54,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国劳动争议调解仲裁法",
+    "revid": 2598206,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%8A%B3%E5%8A%A8%E4%BA%89%E8%AE%AE%E8%B0%83%E8%A7%A3%E4%BB%B2%E8%A3%81%E6%B3%95",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国社会保险法": {
+   "version": "2018年",
+   "effective": "2018年12月29日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 98,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国社会保险法 (2018年)",
+    "revid": 1526119,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%99%A9%E6%B3%95%20%282018%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国就业促进法": {
+   "version": "2015年",
+   "effective": "2015年4月24日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 69,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国就业促进法 (2015年)",
+    "revid": 2125067,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%B0%B1%E4%B8%9A%E4%BF%83%E8%BF%9B%E6%B3%95%20%282015%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国公司法": {
+   "version": "2023年",
+   "effective": "2024年7月1日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 266,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国公司法 (2023年)",
+    "revid": 2394866,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%85%AC%E5%8F%B8%E6%B3%95%20%282023%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国合伙企业法": {
+   "version": "2006年",
+   "effective": "2007年6月1日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 109,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国合伙企业法 (2006年)",
+    "revid": 2124886,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%90%88%E4%BC%99%E4%BC%81%E4%B8%9A%E6%B3%95%20%282006%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国证券法": {
+   "version": "2019年",
+   "effective": "2020年3月1日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 226,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国证券法 (2019年)",
+    "revid": 1757275,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%AF%81%E5%88%B8%E6%B3%95%20%282019%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国消费者权益保护法": {
+   "version": "2013年",
+   "effective": "2014年3月15日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 63,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国消费者权益保护法 (2013年)",
+    "revid": 2149397,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%B6%88%E8%B4%B9%E8%80%85%E6%9D%83%E7%9B%8A%E4%BF%9D%E6%8A%A4%E6%B3%95%20%282013%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国产品质量法": {
+   "version": "2018年",
+   "effective": "2018年12月29日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 74,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国产品质量法 (2018年)",
+    "revid": 4686086,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E4%BA%A7%E5%93%81%E8%B4%A8%E9%87%8F%E6%B3%95%20%282018%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国食品安全法": {
+   "version": "2025年",
+   "effective": "2025年12月1日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 154,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国食品安全法 (2025年)",
+    "revid": 2597527,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8%E6%B3%95%20%282025%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国反不正当竞争法": {
+   "version": "2025年",
+   "effective": "2025年10月15日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 41,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国反不正当竞争法 (2025年)",
+    "revid": 2597536,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%8F%8D%E4%B8%8D%E6%AD%A3%E5%BD%93%E7%AB%9E%E4%BA%89%E6%B3%95%20%282025%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国反垄断法": {
+   "version": "2022年",
+   "effective": "2022年8月1日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 70,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国反垄断法 (2022年)",
+    "revid": 2158145,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%8F%8D%E5%9E%84%E6%96%AD%E6%B3%95%20%282022%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国广告法": {
+   "version": "2021年",
+   "effective": "2021年4月29日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 74,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国广告法 (2021年)",
+    "revid": 2061637,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%B9%BF%E5%91%8A%E6%B3%95%20%282021%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国电子商务法": {
+   "version": "2018年",
+   "effective": "2019年1月1日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 89,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国电子商务法",
+    "revid": 1497619,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1%E6%B3%95",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国个人信息保护法": {
+   "version": "2021年",
+   "effective": "2021年11月1日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 74,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国个人信息保护法",
+    "revid": 2612274,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E4%BF%9D%E6%8A%A4%E6%B3%95",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国网络安全法": {
+   "version": "2025年",
+   "effective": "2026年1月1日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 81,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国网络安全法 (2025年)",
+    "revid": 2642815,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95%20%282025%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国数据安全法": {
+   "version": "2021年",
+   "effective": "2021年9月1日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 55,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国数据安全法",
+    "revid": 2057591,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%95%B0%E6%8D%AE%E5%AE%89%E5%85%A8%E6%B3%95",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国著作权法": {
+   "version": "2020年",
+   "effective": "2021年6月1日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 67,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国著作权法 (2020年)",
+    "revid": 2472229,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%91%97%E4%BD%9C%E6%9D%83%E6%B3%95%20%282020%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国商标法": {
+   "version": "2026年",
+   "effective": "2027年1月1日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 87,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国商标法 (2026年)",
+    "revid": 7904037,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%95%86%E6%A0%87%E6%B3%95%20%282026%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国专利法": {
+   "version": "2020年",
+   "effective": "2021年6月1日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 82,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国专利法 (2020年)",
+    "revid": 1999072,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E4%B8%93%E5%88%A9%E6%B3%95%20%282020%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国道路交通安全法": {
+   "version": "2021年",
+   "effective": "2021年4月29日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 124,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国道路交通安全法 (2021年)",
+    "revid": 2385907,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E9%81%93%E8%B7%AF%E4%BA%A4%E9%80%9A%E5%AE%89%E5%85%A8%E6%B3%95%20%282021%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国治安管理处罚法": {
+   "version": "2025年",
+   "effective": "2026年1月1日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 144,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国治安管理处罚法 (2025年)",
+    "revid": 2601920,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%B2%BB%E5%AE%89%E7%AE%A1%E7%90%86%E5%A4%84%E7%BD%9A%E6%B3%95%20%282025%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国未成年人保护法": {
+   "version": "2024年",
+   "effective": "2024年4月26日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 132,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国未成年人保护法 (2024年)",
+    "revid": 2402147,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E4%BF%9D%E6%8A%A4%E6%B3%95%20%282024%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国妇女权益保障法": {
+   "version": "2022年",
+   "effective": "2023年1月1日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 86,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国妇女权益保障法 (2022年)",
+    "revid": 2189746,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%A6%87%E5%A5%B3%E6%9D%83%E7%9B%8A%E4%BF%9D%E9%9A%9C%E6%B3%95%20%282022%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国仲裁法": {
+   "version": "2025年",
+   "effective": "2026年3月1日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 96,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国仲裁法 (2025年)",
+    "revid": 2597531,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E4%BB%B2%E8%A3%81%E6%B3%95%20%282025%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国律师法": {
+   "version": "2026年",
+   "effective": "2026年9月1日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 65,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国律师法 (2026年)",
+    "revid": 8738851,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%BE%8B%E5%B8%88%E6%B3%95%20%282026%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国个人所得税法": {
+   "version": "2018年",
+   "effective": "2019年1月1日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 22,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国个人所得税法 (2018年)",
+    "revid": 2268374,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E4%B8%AA%E4%BA%BA%E6%89%80%E5%BE%97%E7%A8%8E%E6%B3%95%20%282018%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国税收征收管理法": {
+   "version": "2015年",
+   "effective": "2015年4月24日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 94,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国税收征收管理法 (2015年)",
+    "revid": 509291,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E7%A8%8E%E6%94%B6%E5%BE%81%E6%94%B6%E7%AE%A1%E7%90%86%E6%B3%95%20%282015%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国城市房地产管理法": {
+   "version": "2019年",
+   "effective": "2020年1月1日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 73,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国城市房地产管理法 (2019年)",
+    "revid": 1740499,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9F%8E%E5%B8%82%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%AE%A1%E7%90%86%E6%B3%95%20%282019%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国土地管理法": {
+   "version": "2019年",
+   "effective": "2020年1月1日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 87,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国土地管理法 (2019年)",
+    "revid": 1741338,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9C%9F%E5%9C%B0%E7%AE%A1%E7%90%86%E6%B3%95%20%282019%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国劳动合同法实施条例": {
+   "version": "2008年",
+   "effective": "",
+   "status": "有效",
+   "abolished": null,
+   "articles": 38,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国劳动合同法实施条例",
+    "revid": 2269542,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%8A%B3%E5%8A%A8%E5%90%88%E5%90%8C%E6%B3%95%E5%AE%9E%E6%96%BD%E6%9D%A1%E4%BE%8B",
+    "fetched": "2026-11-15"
+   }
+  },
+  "工伤保险条例": {
+   "version": "2010年",
+   "effective": "2004年1月1日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 67,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "工伤保险条例 (2010年)",
+    "revid": 820760,
+    "url": "https://zh.wikisource.org/wiki/%E5%B7%A5%E4%BC%A4%E4%BF%9D%E9%99%A9%E6%9D%A1%E4%BE%8B%20%282010%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "职工带薪年休假条例": {
+   "version": "2007年",
+   "effective": "2008年1月1日",
+   "status": "有效",
+   "abolished": null,
+   "articles": 10,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "职工带薪年休假条例",
+    "revid": 1305652,
+    "url": "https://zh.wikisource.org/wiki/%E8%81%8C%E5%B7%A5%E5%B8%A6%E8%96%AA%E5%B9%B4%E4%BC%91%E5%81%87%E6%9D%A1%E4%BE%8B",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国合同法": {
+   "version": "1999年",
+   "effective": "1999年10月1日",
+   "status": "已废止",
+   "abolished": {
+    "date": "2021-01-01",
+    "by": "中华人民共和国民法典"
+   },
+   "articles": 428,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国合同法",
+    "revid": 8730201,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%90%88%E5%90%8C%E6%B3%95",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国物权法": {
+   "version": "2007年",
+   "effective": "2007年10月1日",
+   "status": "已废止",
+   "abolished": {
+    "date": "2021-01-01",
+    "by": "中华人民共和国民法典"
+   },
+   "articles": 247,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国物权法",
+    "revid": 8730203,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E7%89%A9%E6%9D%83%E6%B3%95",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国侵权责任法": {
+   "version": "2009年",
+   "effective": "2010年7月1日",
+   "status": "已废止",
+   "abolished": {
+    "date": "2021-01-01",
+    "by": "中华人民共和国民法典"
+   },
+   "articles": 92,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国侵权责任法",
+    "revid": 8730205,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E4%BE%B5%E6%9D%83%E8%B4%A3%E4%BB%BB%E6%B3%95",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国婚姻法": {
+   "version": "2001年",
+   "effective": "2001年4月28日",
+   "status": "已废止",
+   "abolished": {
+    "date": "2021-01-01",
+    "by": "中华人民共和国民法典"
+   },
+   "articles": 51,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国婚姻法 (2001年)",
+    "revid": 2559551,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%A9%9A%E5%A7%BB%E6%B3%95%20%282001%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国继承法": {
+   "version": "1985年",
+   "effective": "1985年10月1日",
+   "status": "已废止",
+   "abolished": {
+    "date": "2021-01-01",
+    "by": "中华人民共和国民法典"
+   },
+   "articles": 37,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国继承法",
+    "revid": 8730208,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E7%BB%A7%E6%89%BF%E6%B3%95",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国民法通则": {
+   "version": "2009年",
+   "effective": "2009年8月27日",
+   "status": "已废止",
+   "abolished": {
+    "date": "2021-01-01",
+    "by": "中华人民共和国民法典"
+   },
+   "articles": 156,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国民法通则 (2009年)",
+    "revid": 1823434,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%B0%91%E6%B3%95%E9%80%9A%E5%88%99%20%282009%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国民法总则": {
+   "version": "2017年",
+   "effective": "2017年10月1日",
+   "status": "已废止",
+   "abolished": {
+    "date": "2021-01-01",
+    "by": "中华人民共和国民法典"
+   },
+   "articles": 206,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国民法总则",
+    "revid": 8730206,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%B0%91%E6%B3%95%E6%80%BB%E5%88%99",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国担保法": {
+   "version": "1995年",
+   "effective": "1995年10月1日",
+   "status": "已废止",
+   "abolished": {
+    "date": "2021-01-01",
+    "by": "中华人民共和国民法典"
+   },
+   "articles": 96,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国担保法",
+    "revid": 8730204,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%8B%85%E4%BF%9D%E6%B3%95",
+    "fetched": "2026-11-15"
+   }
+  },
+  "中华人民共和国收养法": {
+   "version": "1998年",
+   "effective": "1999年4月1日",
+   "status": "已废止",
+   "abolished": {
+    "date": "2021-01-01",
+    "by": "中华人民共和国民法典"
+   },
+   "articles": 34,
+   "source": {
+    "site": "zh.wikisource.org",
+    "page": "中华人民共和国收养法 (1998年)",
+    "revid": 8730210,
+    "url": "https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%94%B6%E5%85%BB%E6%B3%95%20%281998%E5%B9%B4%29",
+    "fetched": "2026-11-15"
+   }
+  }
+ },
+ "aliases": {
+  "宪法": "中华人民共和国宪法",
+  "民法典": "中华人民共和国民法典",
+  "刑法": "中华人民共和国刑法",
+  "民事诉讼法": "中华人民共和国民事诉讼法",
+  "民诉法": "中华人民共和国民事诉讼法",
+  "刑事诉讼法": "中华人民共和国刑事诉讼法",
+  "刑诉法": "中华人民共和国刑事诉讼法",
+  "行政诉讼法": "中华人民共和国行政诉讼法",
+  "行诉法": "中华人民共和国行政诉讼法",
+  "行政处罚法": "中华人民共和国行政处罚法",
+  "行政许可法": "中华人民共和国行政许可法",
+  "行政复议法": "中华人民共和国行政复议法",
+  "国家赔偿法": "中华人民共和国国家赔偿法",
+  "劳动法": "中华人民共和国劳动法",
+  "劳动合同法": "中华人民共和国劳动合同法",
+  "劳合法": "中华人民共和国劳动合同法",
+  "劳动争议调解仲裁法": "中华人民共和国劳动争议调解仲裁法",
+  "劳动仲裁法": "中华人民共和国劳动争议调解仲裁法",
+  "社会保险法": "中华人民共和国社会保险法",
+  "社保法": "中华人民共和国社会保险法",
+  "就业促进法": "中华人民共和国就业促进法",
+  "公司法": "中华人民共和国公司法",
+  "合伙企业法": "中华人民共和国合伙企业法",
+  "证券法": "中华人民共和国证券法",
+  "消费者权益保护法": "中华人民共和国消费者权益保护法",
+  "消法": "中华人民共和国消费者权益保护法",
+  "消保法": "中华人民共和国消费者权益保护法",
+  "产品质量法": "中华人民共和国产品质量法",
+  "食品安全法": "中华人民共和国食品安全法",
+  "反不正当竞争法": "中华人民共和国反不正当竞争法",
+  "反垄断法": "中华人民共和国反垄断法",
+  "广告法": "中华人民共和国广告法",
+  "电子商务法": "中华人民共和国电子商务法",
+  "电商法": "中华人民共和国电子商务法",
+  "个人信息保护法": "中华人民共和国个人信息保护法",
+  "个保法": "中华人民共和国个人信息保护法",
+  "网络安全法": "中华人民共和国网络安全法",
+  "网安法": "中华人民共和国网络安全法",
+  "数据安全法": "中华人民共和国数据安全法",
+  "数安法": "中华人民共和国数据安全法",
+  "著作权法": "中华人民共和国著作权法",
+  "商标法": "中华人民共和国商标法",
+  "专利法": "中华人民共和国专利法",
+  "道路交通安全法": "中华人民共和国道路交通安全法",
+  "道交法": "中华人民共和国道路交通安全法",
+  "治安管理处罚法": "中华人民共和国治安管理处罚法",
+  "治安法": "中华人民共和国治安管理处罚法",
+  "治安处罚法": "中华人民共和国治安管理处罚法",
+  "未成年人保护法": "中华人民共和国未成年人保护法",
+  "未保法": "中华人民共和国未成年人保护法",
+  "妇女权益保障法": "中华人民共和国妇女权益保障法",
+  "仲裁法": "中华人民共和国仲裁法",
+  "律师法": "中华人民共和国律师法",
+  "个人所得税法": "中华人民共和国个人所得税法",
+  "个税法": "中华人民共和国个人所得税法",
+  "税收征收管理法": "中华人民共和国税收征收管理法",
+  "税收征管法": "中华人民共和国税收征收管理法",
+  "城市房地产管理法": "中华人民共和国城市房地产管理法",
+  "房地产管理法": "中华人民共和国城市房地产管理法",
+  "土地管理法": "中华人民共和国土地管理法",
+  "劳动合同法实施条例": "中华人民共和国劳动合同法实施条例",
+  "带薪年休假条例": "职工带薪年休假条例",
+  "合同法": "中华人民共和国合同法",
+  "物权法": "中华人民共和国物权法",
+  "侵权责任法": "中华人民共和国侵权责任法",
+  "婚姻法": "中华人民共和国婚姻法",
+  "继承法": "中华人民共和国继承法",
+  "民法通则": "中华人民共和国民法通则",
+  "民法总则": "中华人民共和国民法总则",
+  "担保法": "中华人民共和国担保法",
+  "收养法": "中华人民共和国收养法"
+ }
+}

@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: unfair-competition-2025-renumbering
+expected_outcome: |
+  Says the Anti-Unfair Competition Law was revised in 2025 (in force 2025-10-15) and the complaint uses the 2019 numbering: 混淆行为 第六条 → 第七条, 商业秘密 第九条第三款 → 第十条第三款, 商业贿赂 第七条第一款 → 第八条第一款, 赔偿数额 第十七条第三款 → 第二十二条第三款; 第二条 is fine.
+context:
+  scaffold_script: place-files.sh

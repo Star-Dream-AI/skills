@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: arbitration-law-2025-renumbering
+expected_outcome: |
+  Says the Arbitration Law was revised in 2025 (in force 2026-03-01): 回避 is now 第四十六条 (old 第三十四条), grounds for setting aside are 第七十一条 (old 第五十八条), and the time limit is 第七十二条 and is now three months, not six.
+context:
+  scaffold_script: place-files.sh

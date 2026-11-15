@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: security-law-2025-renumbering
+expected_outcome: |
+  Says the Public Security Administration Punishments Law was revised in 2025 (in force 2026-01-01): 殴打他人 is now 第五十一条 (old 第四十三条), 寻衅滋事 is now 第三十条 (old 第二十六条); 第十五条 is fine.
+context:
+  scaffold_script: place-files.sh

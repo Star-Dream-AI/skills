@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: law-essay-outdated-citations
+expected_outcome: |
+  Says 《民法通则》 is repealed and the current rule is 《民法典》第一百八十八条 with a three-year period; says 《公司法》第一百四十二条 is the pre-2023 numbering and the current article is 第一百六十二条; does not flag 第一千零七十九条第三款.
+context:
+  scaffold_script: place-files.sh

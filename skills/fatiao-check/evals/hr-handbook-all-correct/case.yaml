@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: hr-handbook-all-correct
+expected_outcome: |
+  Confirms all five citations are correct without inventing errors.
+context:
+  scaffold_script: place-files.sh
