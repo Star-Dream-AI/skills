@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: activities-over-limit-no-rewrite
+expected_outcome: |
+  Organizes the four activities into Common App fields using the student's exact text; reports that activity 2's description is 164 characters (limit 150) and activity 3's position is 64 characters (limit 50) and asks the student to shorten them; does not shorten, reword or translate anything itself; asks for English text for activity 4's Chinese description.
+context:
+  scaffold_script: place-files.sh

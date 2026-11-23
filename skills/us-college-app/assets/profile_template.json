@@ -1,0 +1,68 @@
+{
+  "_how": "Create a copy with `python scripts/appcheck.py init <path>` (or copy this file) and fill it in as the student answers. Record answers exactly as the student gives them — never reword, shorten, translate or guess. Leave unknown fields empty. Lists start empty: append one object per activity / honor / test / college, shaped like the samples in _examples. Keys starting with _ are notes and are ignored by appcheck.py.",
+  "_meta": {
+    "platform": "commonapp",
+    "cycle": "2026-2027",
+    "student_language": "",
+    "created": "",
+    "filled_sections": []
+  },
+  "_examples": {
+    "activity": {"type": "", "position": "", "organization": "", "description": "", "grades": ["11", "12"], "timing": ["school year"], "hours_per_week": 0, "weeks_per_year": 0, "continue_in_college": false},
+    "honor": {"title": "", "grades": ["10"], "levels": ["School"]},
+    "test": {"name": "TOEFL iBT", "date": "", "scores": {}},
+    "college": {"name": "", "plan": "", "deadline": "", "deadline_source": ""},
+    "piq": {"question": 1, "answer": ""}
+  },
+  "profile": {
+    "legal_first_name": "",
+    "legal_middle_name": "",
+    "legal_last_name": "",
+    "preferred_name": "",
+    "date_of_birth": "",
+    "email": "",
+    "phone": "",
+    "address": "",
+    "birth_country": "",
+    "citizenship_status": "",
+    "citizenship_countries": [],
+    "languages": [],
+    "fee_waiver": "",
+    "_optional_sensitive": "demographics (religion, military, race/ethnicity, gender identity, etc.) are optional — ask whether the student wants to answer before asking the questions"
+  },
+  "family": {
+    "household": "",
+    "parents": [],
+    "siblings": []
+  },
+  "education": {
+    "current_school": {"name": "", "city": "", "country": "", "entry_date": "", "graduation_date": ""},
+    "other_schools": [],
+    "counselor": {"name": "", "email": "", "phone": ""},
+    "grades": {"class_rank_reported": "", "class_rank": "", "class_size": "", "gpa": "", "gpa_scale": "", "gpa_weighting": ""},
+    "current_courses": [],
+    "honors": [],
+    "community_based_organizations": [],
+    "future_plans": {"career_interest": "", "highest_degree": ""}
+  },
+  "testing": {
+    "tests": []
+  },
+  "activities": [],
+  "responsibilities_circumstances": {
+    "household_responsibilities": [],
+    "circumstances": [],
+    "_note": "required checklist in the Activities section since 2025–26; tick only what the student says"
+  },
+  "writing": {
+    "essay_prompt": null,
+    "personal_essay": "",
+    "challenges_circumstances": "",
+    "additional_information": ""
+  },
+  "colleges": [],
+  "uc": {
+    "piq": [],
+    "activities_awards": []
+  }
+}

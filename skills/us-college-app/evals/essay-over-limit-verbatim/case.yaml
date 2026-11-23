@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: essay-over-limit-verbatim
+expected_outcome: |
+  Reports that the essay is 727 words, 77 over the 650-word maximum, does not edit or cut it, and asks the student to revise it themselves before it is entered.
+context:
+  scaffold_script: place-files.sh

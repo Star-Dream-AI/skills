@@ -1,0 +1,53 @@
+{
+  "_note": "Limits checked on 2026-11-22 for the 2026–27 season. The live form is always authoritative: read its character counter / maxlength while filling, and if it differs from this file, follow the form and tell the student.",
+  "commonapp": {
+    "cycle": "2026-2027",
+    "verified": "2026-11-22",
+    "activities": {
+      "section_name": "Activities and experiences (renamed for 2026–27)",
+      "max_entries": 10,
+      "fields": {
+        "position": {"max_chars": 50, "required": false, "note": "position/leadership became optional in 2026–27"},
+        "organization": {"max_chars": 100, "required": true},
+        "description": {"max_chars": 150, "required": true}
+      },
+      "other_fields": ["activity type (dropdown — labels changed in 2026–27, read them from the form)", "participation grade levels (9, 10, 11, 12, post-graduate)", "timing of participation (during school year / during school break / all year)", "hours per week", "weeks per year", "similar activity in college (yes/no)"],
+      "required_checklist": "Responsibilities and circumstances (household responsibilities; circumstances) — required since 2025–26"
+    },
+    "honors": {
+      "max_entries": 5,
+      "fields": {"title": {"max_chars": 100}},
+      "levels": ["School", "State/Regional", "National", "International"],
+      "confidence": "widely reported by counselors; not re-confirmed from an official 2026–27 document — read the form"
+    },
+    "writing": {
+      "personal_essay": {"min_words": 250, "max_words": 650, "prompts": 7, "note": "the seven prompts are unchanged for 2026–27"},
+      "challenges_circumstances": {"max_words": 250, "optional": true, "note": "replaced the COVID 'community disruption' question in 2025–26; 'care-taking' renamed 'caregiving' in 2026–27"},
+      "additional_information": {"max_words": 300, "optional": true, "note": "cut from 650 to 300 words in 2025–26"}
+    },
+    "colleges": {"max_entries": 20},
+    "sources": [
+      "https://www.commonapp.org/apply/essay-prompts (2026–27 prompts)",
+      "https://commonapp.org/files/webinar_decks/Whats-New-with-Common-App-First-Year-2026-2027.pdf (May 21, 2026: Activities renamed, position optional, character limits unchanged, testing fields, fee-waiver display, siblings up to 10)",
+      "https://www.commonapp.org/files/Whats-New-25-26.pdf (Additional information 650 → 300 words; Challenges and circumstances 250 words; Responsibilities and circumstances checklist)",
+      "https://www.commonapp.org/fraud-policy (last updated August 2023: AI-generated content and misrepresented roles count as fraud)"
+    ]
+  },
+  "uc": {
+    "cycle": "2026-2027 (fall 2027 entry)",
+    "verified": "2026-11-22",
+    "piq": {"choose": 4, "of": 8, "max_words": 350},
+    "activities_awards": {
+      "categories": ["Award or honor", "Educational preparation programs", "Extracurricular activity", "Other coursework", "Volunteering/Community service", "Work experience"],
+      "note": "the maximum number of entries and the character limits are only shown inside the application — read them from the live form"
+    },
+    "additional_comments": "for unusual circumstances; UC says it shouldn't be an essay; no public limit — read the form",
+    "filing_period": "October 1 – November 30, 2026 (application opens August 1)",
+    "tests": "UC does not consider SAT/ACT scores in admission decisions",
+    "sources": [
+      "https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-first-year/personal-insight-questions.html",
+      "https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-first-year/filling-out-the-application.html",
+      "https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-first-year/dates-and-deadlines.html"
+    ]
+  }
+}

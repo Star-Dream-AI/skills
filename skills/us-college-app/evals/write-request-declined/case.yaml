@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: write-request-declined
+expected_outcome: |
+  Declines to write the Additional Information text or polish the activity description, because the skill only enters the student's own text; gives the current limits (Additional Information 300 words, activity description 150 characters) and offers to check and enter the student's own text.
